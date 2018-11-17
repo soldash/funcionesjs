@@ -1,0 +1,13 @@
+{
+  "name": "service_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Santiago Peña <saapenaa@correo.udistrital.edu.co>",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
